@@ -1,9 +1,4 @@
 # Andréanne Proulx, practical assignment
 
-#This practical assignment folder contains 3 files
-
--Data to import in the Jupyter Notebook "brainsize_csv"
--Code to run the analysis "myanalysis.ipynb"
--Requirements : packages and versions to install
--README file
+Run the code in the jupyter notebook named "myanalysis.ipynb" changing the $PATH to the folder containing the "brainsize.csv" file. Check the requeriments for packages and versions to install before running the analysis. 
 
